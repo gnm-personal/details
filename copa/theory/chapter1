@@ -1,0 +1,949 @@
+UNIT - 1
+INTRODUCTION TO COMPUTERS
+COMPONENTS FO SYSTEM 
+1.1. INTRODUCTION TO COMPUTER
+ A computer is an electronic device, operating under the control of instructions stored in its own memory that can accept data (input), process the data according to specified rules, produce information (output), and store the information for future use.
+
+Functionalities of a computer
+Based on the fundamental working of a computer system, a computer mainly has four basic functions:-
+Input Function
+Processing Function
+Output Function
+Storage Function
+
+ Characteristics of Computer
+ Let us identify the major characteristics of computer. These can be discussed under the headings of speed, accuracy, diligence, versatility and memory. 
+
+ Speed 
+As you know computer can work very fast. It takes only few seconds for calculations that we take hours to complete. Suppose you are asked to calculate the average monthly income of one thousand persons in your neighborhood. For this you have to add income from all sources for all persons on a day to day basis and find out the average for each one of them. How long will it take for you to do this? One day, two days or one week? Do you know your small computer can finish this work in few seconds? The weather forecasting that you see every day on TV is the results of compilation and analysis of huge amount of data on temperature, humidity, pressure, etc. of various places on computers. It takes few minutes for the computer to process this huge amount of data and give the result. 
+You will be surprised to know that computer can perform millions (1,000,000) of instructions and even more per second. Therefore, we determine the speed of computer in terms of microsecond (10-6 part of a second) or nano-second (10-9 part of a second). From this you can imagine how fast your computer performs work. 
+2. Diligence
+A human cannot work for several hours without resting, yet a computer never tires. A computer can conduct millions of calculations per second with complete precision without stopping. A computer can consistently and accurately do millions of jobs or calculations. There is no weariness or lack of concentration. Its memory ability also places it ahead of humans.
+. Reliability
+A computer is reliable. The output results never differ unless the input varies. the output is totally depend on the input. when an input is the same the output will also be the same. A computer produces consistent results for similar sets of data, if we provide the same set of input at any time we will get the same result.
+. Automation
+The world is quickly moving toward AI (Artificial Intelligence)-based technology. A computer may conduct tasks automatically after instructions are programmed. By executing jobs automatically, this computer feature replaces thousands of workers. Automation in computing is often achieved by the use of a program, a script, or batch processing.
+. Versatility
+Versatility refers to a capacity of computer. Computer perform different types of tasks with the same accuracy and efficiency. A computer can perform multiple tasks at the same time this is known as versatility. For example, while listening to music, we may develop our project using PowerPoint and Wordpad, or we can design a website.
+. Memory
+A computer can store millions of records. these records may be accessed with complete precision. Computer memory storage capacity is measured in Bytes, Kilobytes(KB), Megabytes(MB), Gigabytes(GB), and Terabytes(TB). A computer has built-in memory known as primary memory.
+. Accuracy
+When a computer performs a computation or operation, the chances of errors occurring are low. Errors in a computer are caused by human's submitting incorrect data. A computer can do a variety of operations and calculations fast and accurately.
+Computer Limitations
+No self-thinking ability – A computer cannot think like humans; it only follows instructions. 
+No emotions or feelings – A computer cannot understand emotions or feelings. 
+Depends on instructions – It works only according to the programs given by users. 
+Cannot make decisions on its own – It cannot judge situations without programmed rules. 
+Cannot learn by itself – It needs data and programming to perform tasks. 
+GIGO (Garbage In, Garbage Out) – If wrong data is entered, the computer gives wrong results.
+Computer History :
+The history of computers began with simple calculating devices used by humans. The first calculating tool was the Abacus, used thousands of years ago. Later, inventors developed machines like Pascaline by Blaise Pascal and the Analytical Engine by Charles Babbage, who is known as the “Father of Computer.”
+Modern computers developed through different generations:
+First Generation: Vacuum tubes were used. 
+Second Generation: Transistors replaced vacuum tubes. 
+Third Generation: Integrated Circuits (ICs) were introduced. 
+Fourth Generation: Microprocessors were used. 
+Fifth Generation: Artificial Intelligence and advanced technologies are used. 
+Today, computers are fast, powerful, and used in almost every field
+First Generation Computers 
+The period of first generation was from 1946-1959. The computers of first generation used vacuum tubes as the basic components for memory and circuitry for CPU (Central Processing Unit). These tubes, like electric bulbs, produced a lot of heat and the installations used to fuse frequently. Therefore, they were very expensive and only large organizations were able to afford it. 
+In this generation, mainly batch processing operating system was used. Punch cards, paper tape, and magnetic tape was used as input and output devices. The computers in this generation used machine code as the programming language. 
+The main features of the first generation are: 
+• Vacuum tube technology 
+• Unreliable 
+• Supported machine language only 
+• Very costly 
+• Generates lot of heat 
+• Slow input and output devices 
+• Huge size 
+• Need of AC 
+• Non-portable 
+• Consumes lot of electricity 
+
+Some computers of this generation were: 
+• ENIAC 
+• EDVAC 
+• UNIVAC 
+• IBM-701 
+• IBM-750 
+Second Generation Computers 
+The period of second generation was from 1959-1965. In this generation, transistors were used that were cheaper, consumed less power, more compact in size, more reliable and faster than the first-generation machines made of vacuum tubes. In this generation, magnetic cores were used as the primary memory and magnetic tape and magnetic disks as secondary storage devices. 
+In this generation, assembly language and high-level programming languages like FORTRAN, COBOL were used. The computers used batch processing and multiprogramming operating system. 
+The main features of second generation are: 
+• Use of transistors 
+• Reliable in comparison to first generation computers 
+• Smaller size as compared to first generation computers 
+• Generates less heat as compared to first generation computers 
+• Consumed less electricity as compared to first generation computers 
+• Faster than first generation computers 
+• Still very costly 
+• AC required 
+• Supported machine and assembly languages 
+
+Some computers of this generation were: 
+• IBM 1620 
+• IBM 7094 
+• CDC 1604 
+• CDC 3600 
+• UNIVAC 1108 
+
+
+Third Generation Computers 
+The period of third generation was from 1965-1971. The computers of third generation used Integrated Circuits (ICs) in place of transistors. A single IC has many transistors, resistors, and capacitors along with the associated circuitry. 
+The IC was invented by Jack Kilby. This development made computers smaller in size, reliable, and efficient. In this generation remote processing, time-sharing, multi-programming operating system were used. High-level languages (FORTRAN-II TO IV, COBOL, PASCAL PL/1, BASIC, ALGOL-68 etc.) were used during this generation. 
+The main features of third generation are: 
+• IC used 
+• More reliable in comparison to previous two generations 
+• Smaller size 
+• Generated less heat 
+• Faster 
+• Lesser maintenance 
+• Costly 
+• AC required 
+• Consumed lesser electricity 
+• Supported high-level language 
+
+Some computers of this generation were: 
+• IBM-360 series 
+• Honeywell-6000 series 
+• PDP (Personal Data Processor) 
+• IBM-370/168 
+• TDC-316 
+
+Fourth Generation Computers 
+The period of fourth generation was from 1971-1980. Computers of fourth generation used Very Large Scale Integrated (VLSI) circuits. VLSI circuits having about 5000 transistors and other circuit elements with their associated circuits on a single chip made it possible to have microcomputers of fourth generation. 
+Fourth generation computers became more powerful, compact, reliable, and affordable. As a result, it gave rise to Personal Computer (PC) revolution. In this generation, time sharing, real time networks, distributed operating system were used. All the high-level languages like C, C++, DBASE etc., were used in this generation. 
+The main features of fourth generation are: 
+• VLSI technology used 
+• Very cheap 
+• Portable and reliable 
+• Use of PCs 
+• Very small size 
+• Pipeline processing 
+• No AC required 
+• Concept of internet was introduced 
+• Great developments in the fields of networks 
+• Computers became easily available 
+
+Some computers of this generation were: 
+• DEC 10 
+• STAR 1000 
+• PDP 11 
+• CRAY-1(Super Computer) 
+• CRAY-X-MP(Super Computer) 
+Fifth Generation Computers 
+The period of fifth generation is 1980-till date. In the fifth generation, VLSI technology became ULSI (Ultra Large Scale Integration) technology, resulting in the production of microprocessor chips having ten million electronic components. 
+This generation is based on parallel processing hardware and AI (Artificial Intelligence) software. AI is an emerging branch in computer science, which interprets the means and method of making computers think like human beings. All the high-level languages like C and C++, Java, .Net etc., are used in this generation.
+The main features of fifth generation are: 
+• ULSI technology 
+• Development of true artificial intelligence 
+• Development of Natural language processing 
+• Advancement in Parallel Processing 
+• Advancement in Superconductor technology 
+• More user-friendly interfaces with multimedia features 
+• Availability of very powerful and compact computers at cheaper rates 
+
+Some computer types of this generation are: 
+• Desktop 
+• Laptop 
+• Notebook 
+• Ultrabook 
+• Chromebook 
+
+1.4  Classification of Computers
+1.4.1 CLASSIFICATION OF COMPUTERS
+Computers can be classified according to
+Physical size
+Purpose
+Functionality
+Classification of computers according to physical size
+Based on physical size computers can be classified into four main groups
+Super computers
+Mainframe computers
+Minicomputers
+Microcomputers
+1.4.1.1 SUPERCOMPUTERS
+Supercomputers are the fastest, largest, most expensive & also the most powerful computers available.
+Characteristics
+They are very Fastest computers , and Largest in size
+Most expensive
+Huge processing power
+Very heavy
+Generate a lot of heat
+Use multiple processors
+They are operated by computer specialists.  A Supercomputer can be operated by over 500 users at the same time
+Applications
+Scientific research
+Defense and weapon analysis
+Nuclear energy research
+Weather forecasting
+Petroleum research.
+Note.  These tasks use large amounts of data, which need to be manipulated within a very short time.
+Examples of Supercomputers:
+CRAY T3D
+ NEC-500.
+CDC 6600
+ABC (Atanasoff-Berry Computer)
+ENIAC
+Mainframe computers.
+Mainframes are less powerful & less expensive than supercomputers. Mainframe executes many programs concurrently and supports many simultaneous execution of programs. They are mostly found in government and big organizations such as banks, hospitals, airports etc
+Characteristics
+Have a large storage capacity
+Large in size
+Multi-user
+Multi-processing
+Supports a variety of peripherals
+Areas where mainframe computers are used:
+Mainframe computers are mostly found in government departments, big organizations and companies which have large information processing needs, e.g., they are used; 
+In Banks & Hospitals for preparing bills, Payrolls, etc. 
+In communication networks such as the Internet where they act as Servers.
+By Airline reservation systems where information of all the flights is stored.
+Examples of Mainframes:
+IBM 360,4381.
+ICL 39 Series.
+CDC Cyber series.
+BINAC
+UNIVAC
+Minicomputers.
+A Minicomputer is physically smaller than a mainframe.  However, it can support the same peripheral devices supported by a mainframe.
+Characteristics
+Multi-user, e.g., can be operated by 6 users at a time. 
+Easier to manufacture & maintain compared to mainframes.
+Cheaper than the mainframes
+They handle small amounts of data, are less powerful, & have less memory than the mainframes.
+Minicomputers are slow compared to mainframe computers.
+Applications
+Used in scientific laboratories
+Used in research institutions
+Engineering plants
+Automatic processing
+Also they are well adapted for functions such as
+Accounting
+Word processing
+Database administration
+Microcomputers.
+Microcomputers are the PCs mostly found today in homes, schools & many small offices.  They are called Personal Computers (PCs) because they are designed to be used by one person at a time.
+Characteristics
+Are cheaper than both mini & mainframe computers.
+Are very fast (i.e. have high processing speeds).
+Small in size, hence they occupy less space in an office.
+Are more energy efficient (i.e., consume less power).
+Are more reliable than the early Mainframe computers.
+Areas where microcomputers are used:
+Microcomputers are commonly used in:
+Training and learning institutions such as schools.
+Small business enterprises, and
+Communication centers as terminals.
+The following are the various types of microcomputers in operation today arranged in descending order according to size.
+Desktop computer; is designed to be placed on top of an office desk
+Notebook or laptop; portable convenient for mobile users.
+Personal Digital Assistant(PDA); Is small enough to fit in the pocket
+CLASSIFICATION ACCORDING TO PURPOSE.
+Computers can be classified according to the tasks they perform as general or special purpose computers.
+General purpose computers
+They are the most common types of computers in use today. Their flexibility enables them to be applied in a wide range of applications like;
+Document processing
+Performing calculations,
+Accounting,
+Data and information management
+Examples of general-purpose computers: Mainframes, Minicomputers, Microcomputers & Laptops used in most offices & schools.
+Special-purpose computer.
+A special-purpose computer is designed to handle/accomplish a particular specific task only. Such computers cannot perform any other task except the one they were meant to do.  Therefore, the programs which are used in a special-purpose computer are fixed (hard-wired) at the time of manufacture.
+For example;
+In a computer Network, the Front End Processor (FEP) is only used to control the communication of information between the various workstations and the host computer.
+A Special-purpose computer is dedicated to a single task; hence it can perform it quickly & very efficiently.
+Examples of special-purpose computers:
+Robots used in a manufacturing industry for production only.
+Mobile phones used for communication only.
+Calculators that carry out calculations only.
+Computers used in Digital watches.
+Computers used in Petrol pumps.
+
+Dedicated computer
+A Dedicated computer is a general-purpose computer that is committed to some processing task; though capable of performing a variety of tasks in different application environments.
+E.g., the computer can be dedicated to carrying out Word processing tasks only.
+CLASSIFICATION ACCORDING TO FUNCTIONALITY
+Usually, there are two forms of data; Digital data, and Analogue data. Computers can be classified according to the type of data they can process as either.
+Digital computers.
+Analogue computers
+Hybrid computers.
+Digital Computers
+This is the most commonly used type of computers.
+Digital computers process data that is discrete in nature. Discrete data also known as digital data is usually represented using a two-state square waveform. .  It can process both numeric & alphabetic data within the computer, e.g., 0, 1, 2, 3…, A,B,C….
+Their operation is based on 2 states, “ON” & “OFF” or on digits “1” & “0”.  Therefore, any data to be manipulated by a digital computer must first be converted to digital form.
+Most of the devices found at homes today are digital in nature.
+Examples:
+¨A Television with a button which is pressed to increase or decrease the volume.
+¨Digital watches.
+¨Calculators.
+Analogue computers.
+An Analogue computer is a computer that operates on continuous data. They carry out their data processing by measuring the amount of change that occurs in physical attributes/quantities, such as changes in electrical voltage, speed, currents, pressure, length, temperature, humidity, etc.
+
+
+An Analogue computer is usually a special-purpose device that is dedicated to a single task.  For example, they are used in specialized areas such as in:
+Scientific or engineering experiments,
+Military weapons,
+Controlling manufacturing processes like monitoring & regulating furnace temperatures and pressures.
+Weather stations to record & process physical quantities, e.g., wind, cloud speed, temperature, etc.
+The output from analogue computers is in form of smooth graphs produced by a plotting pen or a trace on a Cathode Ray Tube (CRT) from which the information can be read. 
+Analogue computers are very accurate & efficient since they are dedicated to a single task.
+They are very fast since most of them use multiple processors.
+Examples of analogue devices:
+Thermometer.It uses a volume of Mercury to show temperature.  The Thermometer is calibrated to give an exact temperature reading.
+A Petrol pump measures the rate of flow of Gasoline (petrol) & converts the volume delivered to 2 readings; one showing the volume & the other showing the cost.
+A Post-office scale converts the weight of a parcel delivered into a charge for posting.
+A Monitor with knobs that are rotated to increase brightness.
+A Television with knobs that are rotated to increase or decrease the volume.
+Hybrid computers.
+Hybrid computers are designed to process both analogue & digital data.  They combine both the functional capabilities of the digital and analogue computers. 
+Hybrid computers are designed by interconnecting the elements of a digital computer & analogue computer directly into one processor, using a suitable interfacing circuitry.
+Hybrid computers are more expensive.
+Example;
+In a hospital Intensive Care Unit, an analogue device may be used to measure the functioning of a patient’s heart, temperature and other vital signs.  These measurements may then be converted into numbers and send to a digital device, which may send an immediate signal to the nurses’ station if any abnormal readings are detected.
+1.5  Components of a Computer
+A computer is an electronic device that accepts data, performs operations, displays results, and stores the data or results as needed. It is a combination of hardware and software resources that integrate and provide various functionalities to the user.
+
+Given below are the 5 components of a computer along with their purpose and functions. 
+Input Unit
+A computer will only respond when a command is given to the device. These commands can be given using the input unit or the input devices. 
+For example: Using a keyboard we can type things on a Notepad and the computer processes the entered data and then displays the output of the same of the screen.
+The data entered can be in the form of numbers, alphabet, images, etc. We enter the information using an input device, the processing units convert it into computer understandable languages and then the final output is received by a human-understandable language.
+Hardware components that allow users to input data into the computer. Examples:
+Keyboard
+Mouse
+Scanner
+Microphone
+
+Functions of Input Unit of a Computer System
+Takes in user commands in the form of data.
+Converts data in a digital language format.
+Sends over the data to the processing unit for the next step.
+
+
+Output Devices
+When we command a computer to perform a task, it reverts for the action performed and gives us a result. This result is called output. There are various output devices connected to the computer. The most basic of which is a monitor.,Devices that deliver information from the computer to the user. Examples:
+Monitor: Displays visual output
+Printer: Produces physical documents
+Speakers: Output audio
+
+Functions of Output Unit of Computer
+Receives the instructions in machine language to execute a task.
+Coordinates with the processor to get the instruction on time.
+Converts the machine language back into a user-friendly one by completing tasks.
+It is the medium by which users understand that their demands are met by the system.
+
+Central Processing Unit (CPU)
+Often called the brain of the computer, the CPU is responsible for executing instructions and processing data. It performs calculations and manages tasks by interpreting and executing program instructions.
+
+The Central Processing Unit is the core of any computer devices. It comprises three major components of the computer which have been discussed above:
+Memory Unit
+Control Unit
+Arithmetic and Logical Unit
+Memory Unit
+Memory is the electronic storage space where a computer keeps the instructions and data it needs to access quickly. It's the place where information is stored for immediate use. Memory is an important component of a computer, as without it, the system wouldn’t operate correctly. The computer’s operating system (OS), hardware, and software all rely on memory to function properly.Random-Access 
+Memory (RAM): A type of volatile memory used to store data actively being processed. RAM allows fast access and enhances performance.
+Storage Devices: Such as Hard Disk Drives (HDDs) and Solid-State Drives (SSDs), essential for long-term data and program storage.
+
+Functions of Memory Unit In Computer
+Responsible for storing data coming from input devices.
+Storing the result data coming from output devices.
+Storing all the steps that the system goes through while task execution.
+
+
+Types of Memory 
+ Primary Memory
+Also known as the main memory of the computer system, is used to store data and programs, or instructions during computer operations. It uses semiconductor technology and hence is commonly called semiconductor memory. Primary memory is of two types:
+RAM
+Also known as Random Access Memory is a volatile memory. Volatile memory stores information based on the power supply. If the power supply fails/ interrupted/stopped, all the data and information on this memory will be lost. RAM is used for booting up or starting the computer. It temporarily stores programs/data which has to be executed by the processor. RAM is of two types:
+S RAM (Static RAM):S RAM uses transistors and the circuits of this memory are capable of retaining their state as long as the power is applied. This memory consists of the number of flip flops with each flip flop storing 1 bit. It has less access time and hence, it is faster.
+D RAM (Dynamic RAM):D RAM uses capacitors and transistors and stores the data as a charge on the capacitors. They contain thousands of memory cells. It needs refreshing of charge on capacitor after a few milliseconds. This memory is slower than S RAM.
+ROM
+A type of non-volatile memory stores data permanently, even when the power is off, known as Read Only Memory (ROM). It is used to hold essential instructions required to start and operate the system, and its data can only be read, not modified. ROM is also called permanent memory and stores information in binary form. It is of four main types.
+MROM(Masked ROM): Hard-wired devices with a pre-programmed collection of data or instructions were the first ROMs. Masked ROMs are a type of low-cost ROM that works in this way.
+PROM (Programmable Read Only Memory): This read-only memory is modifiable once by the user. The user purchases a blank PROM and uses a PROM program to put the required contents into the PROM. Its content can't be erased once written.
+EPROM (Erasable Programmable Read Only Memory):EPROM is an extension to PROM where you can erase the content of ROM by exposing it to Ultraviolet rays for nearly 40 minutes.
+EEPROM (Electrically Erasable Programmable Read Only Memory): Here the written contents can be erased electrically. You can delete and reprogram EEPROM up to 10,000 times. Erasing and programming take very little time, i.e., nearly  4 -10 ms(milliseconds). Any area in an EEPROM can be wiped and programmed selectively.
+2. Secondary Memory
+Also known as auxiliary memory and backup memory, is a non-volatile memory and used to store a large amount of data or information. The data or information stored in secondary memory is permanent, and it is slower than primary memory. A CPU cannot access secondary memory directly. The data/information from the auxiliary memory is first transferred to the main memory, and then the CPU can access it. Its features are:
+Non-volatile memory that stores data permanently (even without power)
+Provides large storage capacity for files and applications
+Slower than primary memory but more cost-effective
+Used for long-term data storage and backup
+
+
+Types of Secondary Memory
+1. Magnetic Tapes: Storage medium uses a long, narrow plastic strip coated with magnetic material to record data as magnetic patches along multiple tracks, known as Magnetic Tapes. Data is read and written sequentially, and the tape can be moved forward, backward, or rewound, making it suitable for backup and archival storage.
+2. Magnetic Disks: Type of storage device uses circular plates coated with magnetic material to store data on both sides, known as Magnetic Disks. Data is organized into concentric tracks and divided into sectors, allowing faster and more direct access compared to tapes.
+
+
+
+Control Unit
+This is the core unit which manages the entire functioning of the computer device. It is one of the most essential components of the computer system. 
+The Control Unit collects the data entered using the input unit, leads it on for processing and once that is done, receives the output and presents it to the user. It can be said to the centre of all processing actions taking place inside a computer device. 
+Basically, the instructions taken, interpretation of entered data, issuing signals to execute the data and then finally retrieving the data is all done in the Control Unit. 
+Functions of Control Unit in Computer
+Coordinate information transfer between the memory and I/O devices.
+Converts the instruction into machine language.
+It decodes the instruction and sends it to the correct device.
+Prepare a data sequence making it easier for processing.
+Maintains a flow of data inside the system.
+Transfer the commands/issues to the arithmetic and logic unit.
+Arithmetic & Logical Unit
+As the name suggests, all the mathematical calculations or arithmetic operations are performed in the Arithmetic and Logical Unit of the CPU. 
+It can also perform actions like a comparison of data and decision-making actions. The ALU comprises circuits using which addition, subtraction, multiplication, division and other numerical based calculations can be performed.
+Functions of ALU in Computer
+Responsible for all calculations and mathematical issues.
+Allows the computer to compare data easily.
+Enables the data transfer between primary and secondary memory by decoding it.
+Acts as a decision-maker in case of any trouble.
+Uses and Basic Applications of Computers
+The term computer comes from compute, meaning to calculate, and originally referred to a person or device performing calculations. Today, computers are widely used in fields like education, business, healthcare, and entertainment, making them essential for modern technological development.
+The various fields where the computer is essential are:
+. Science
+Today, the computer is the best-suited machine for collecting, analyzing, classifying, and storing data. It becomes the most essential medium to spread knowledge internally and internationally. It allows scientists from different locations to work together and share ideas on the same project. 
+. Defence System
+Computers are used to track airplanes, missiles, tanks, and different kinds of weapons. Once the radar system tracks a missile and artificial intelligence is programmed to target a missile and destroy it before it comes on the surface. It is also used for GPS tracking, controlling defense vehicles, records of all members of the military. 
+. Medical
+Computers are used to record patients’ information, monitoring heart rate, oxygen level, and blood pressure. To conduct various surgeries junior doctors get the help of another professional doctor by web conferencing.
+. Education
+Computers are very crucial for online classes, download study material on the internet and interact with fellow learners. Computers are also used to track student attendance and learning strategies.
+. Banking
+A computer help in storing several account holder details on a bank server. All transactions such as deposits and withdrawals perform by a computer. A banking company can easily monitor all ATMs and passbook printing machines. 
+. Government Sectors
+Government can easily monitor government sectors such as road services, railway, development, and other rising funds. The information of every citizen is stored on the server through the computer. 
+. Entertainment
+We can play various interesting video games using a computer. We can watch movies, TV shows, and reality shows on the computer. A computer is also used to create memes that entertain users.
+
+
+
+Computer hardware and software
+Hardware – any physical device or equipment used in or with a computer system (anything you can see and touch).
+External hardware
+External hardware devices (peripherals) – any hardware device that is located outside the computer.
+Input device – a piece of hardware device which is used to enter information to a computer for processing.
+Examples: keyboard, mouse, trackpad (or touchpad), touchscreen, joystick, microphone, light pen, webcam, speech input, etc.
+Output device – a piece of hardware device that receives information from a computer.
+Examples: monitor, printer, scanner, speaker, display screen (tablet, smartphone …), projector, head phone, etc
+Internal hardware
+Internal hardware devices (or internal hardware components) – any piece of hardware device that is located inside the computer.
+Examples: CPU, hard disk drive, ROM, RAM, etc.
+Computer Software Basics
+Computer software
+Software – a set of instructions or programs that tells a computer what to do or how to perform a specific task (computer software runs on hardware).
+Main types of software – systems software and application software.
+Application software
+
+Application software – a computer program that provides users with tools to accomplish a specific task.
+Examples of application software: word processing, spreadsheets, presentation, database management, Internet browsers, email programs, media players, accounting, pronunciation, translation, desktop publishing, enterprise, etc.
+System Software
+System software – it is designed to run a computer’s hardware and application software, and make the computer system available for use. It serves as the interface between hardware, application software, and the user.
+
+Main functions of system software – allocating system resources, managing storage space, storing and retrieval of files, providing security, etc.
+Main types of systems software – operating system, device driver, utility software, programming software, etc.
+Operating system (OS) – a software that controls and coordinates the computer hardware devices and runs other software and applications on a computer. It is the main part of system software and a computer will not function without it.
+Main functions of an operating system – booting the computer, managing system resources (CPU, memory, storage devices, printer, etc.), managing files, handling input and output, executing and providing services for application software, etc.
+Examples of operating system: Microsoft Windows, Apple iOS, Android OS, macOS, Linux, etc.
+Device driver – a software program that is designed to control a particular hardware device that is attached to a computer.
+The main purpose of device driver – it acts as a translator between the hardware device and operating systems or applications that use it.
+It instructs computer on how to communicate with the device by translating the operating system’s instructions into a language that a device can understand in order to perform the necessary task.
+Examples of device driver: printer driver, display driver, USB driver, sound card driver, motherboard driver, ROM driver, etc.
+Utility software – a type of system software that helps set up, analyze, configure, strengthen, maintain a computer and performs a very specific task (e.g. antivirus software, backup software, memory tester, screen saver, etc.).
+
+
+Computer Network
+Definition – A group of computers which are connected to each other and follow similar usage protocols for the purpose of sharing information and having communications provided by the networking nodes is called a Computer Network. 
+A network may be small where it may include just one system or maybe as large as what one may want. The nodes may further be classified into various types. These include:
+Personal Computers
+Servers
+Networking Hardware
+General Hosts
+Networking can be classified into three types:
+Types of Computer Networks
+Topology
+Interpreters
+Types of Computer Networks
+There are five main types of Computer  Networks:
+.LAN (Local Area Network) – 
+Systems connected in a small network like in a building or a small office
+It is inexpensive
+It uses Ethernet or Token-ring technology
+Two or more personal computers can be connected through wires or cables acting as nodes
+Transfer of data is fast and is highly score
+PAN (Personal Area Network) – 
+The smallest computer network
+Devices may be connected through Bluetooth or other infra-red enables devices
+It has a connectivity range of upto 10 metres
+It covers an area of upto 30 feet
+Personal devices belonging to a single person can be connected to each other using PAN
+MAN (Metropolitan Area Network) – 
+A network that can be connected within a city, for example, cable TV Connection
+It can be in the form of Ethernet, ATM, Token-ring and FDDI
+It has a higher range
+This type of network can be used to connect citizens with the various Organisations
+WAN (Wide Area Network) – 
+A network which covers over a country or a larger range of people
+Telephonic lines are also connected through WAN
+Internet is the biggest WAN in the world
+Mostly used by Government Organisations to manage data and information
+VPN (Virtual Private Network): – 
+A network which is constructed by using public wires to connect to a private network
+There are a number of systems which enable you to create networks using the Internet as a medium for transporting data
+These systems use encryptions and other security mechanisms to ensure only authorised users can access
+Computer Number System
+Number System is a method of representing numbers with the help of a set of symbols and rules; it is a mathematical notation used to represent quantities or values in various forms.
+Please remember every piece of data in a computer—whether it’s text, images, sound, video, code, or memory addresses—is ultimately stored as binary, a string of 0s and 1s making numbers and number systems the core of computing.
+Humans understand decimal, and computers understand binary, so we have two different number systems.
+Binary can be long for large amount of data, so there are more systems like octal and hexadecimal that allow binary sequence to be broken into groups making it less error-prone and readable compared to binary.
+
+
+
+As shown in Figure 1, binary is the foundation of all data representation in computers. Let’s now explore the different number systems that enable this process.
+Number systems provide a structured way to represent numbers, enabling arithmetic operations and ensuring consistent, understandable notation.
+A number system uses a base (or radix) to represent values.
+The base refers to the number of unique digits, including zero, that a system uses to represent numbers.
+Each system has its own set of rules for representing.
+
+Types of Number Systems
+Number systems are of various types based on their base value and the number of allowed digits.
+
+
+Decimal Number System
+The Decimal Number System is the standard system for denoting numbers.
+It is also called the base-10 system.
+Digits used in it are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Each digit in the number is at a specific place value that is powers of 10.
+From right to left - units has the place value as 100, Tens has the place value as 101, Hundreds as 102, Thousands as 103, and so on.
+Example:
+10285 can be written as
+10285 = (1 × 104) + (0 × 103) + (2 × 102) + (8 × 101) + (5 × 100)
+10285 = 1 × 10000 + 0 × 1000 + 2 × 100 + 8 × 10+ 5 × 1
+10285 = 10000 + 0 + 200 + 80 + 5
+10285 = 10285
+Binary Number System
+Binary Number System is the number system with base 2.
+The numbers are formed using two digits - 0 and 1.
+Binary number system is very useful in electronic devices and computer systems because it can be easily performed using just two state i.e. 0 and 1. 
+Each digit in the number is at a specific place value that is powers of 2.
+From right to left - as powers of 2 i.e. 20, 21, 22, etc).
+Binary Numbers can be converted to Decimal value by multiplying each digit with the place value and then adding the result.
+Example:
+(1011)₂ can be written as
+(1011)₂ = 1 × 2³ + 0 × 2² + 1 × 2¹ + 1 × 2⁰
+(1011)₂ = 1 × 8 + 0 × 4 + 1 × 2 + 1 × 1
+(1011)₂ = 11 (in decimal)
+Octal Number System
+Octal Number System is the number system with base 8.
+The numbers are formed using 8 digits i.e. 0, 1, 2, 3, 4, 5, 6, 7.
+Octal number system is useful for representing file permissions in Unix/Linux operating systems.
+Each digit in the number is at a specific place value that is powers of 8.
+From right to left - as powers of 8 i.e. 80, 81, 82, etc.
+Octal Numbers can be converted to Decimal value by multiplying each digit with the place value and then adding the result.
+Example: 
+(325)8 can be written as
+(325)8 = 3 × 8² + 2 × 8¹ + 5 × 8⁰
+(325)8 = 192 + 16 + 5
+(325)8 = 213 (in decimal)
+Hexadecimal Number System
+Hexadecimal Number System is the number system with base 16.
+The numbers are formed using 16 digits i.e. 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F.
+Hexadecimal Numbers are useful for handling memory address locations. 
+The digits from 0 to 9 are used as in the decimal system, but the numbers 10 to 15 are represented using the letters A to F as follows: 10 is represented as A, 11 as B, 12 as C, 13 as D, 14 as E, 15 as F.
+Place Value: the position of the digit. Each digit in the number is at a specific place value that is powers of 16. (from right to left - as powers of 16 i.e. 160, 161, 162, etc)
+Hexadecimal Number System can be converted to Decimal value by multiplying each digit with the place value and then adding the result.
+Example: 
+(2F)16 can be written as
+(2F)16 = 2 × 16¹ + F × 16⁰
+(2F)16 = 2 × 16 + 15 × 1
+(2F)16 = 32 + 15
+(2F)16= 47 (in decimal)
+
+
+
+
+Computer motherboard 
+A motherboard is a circuit board inside general-purpose computing systems, including personal computers, smart televisions, smart monitors, and other similar devices, which supports communication between different electrical components and houses components such as the CPU, memory, etc. It is typically made of fiberglass and copper. This article defines a motherboard and explains its components and functions.
+
+CPU Slot: The CPU can be installed in this space. It serves as a connector between a motherboard and a microprocessor. It makes the CPU easier to operate and guards against harm when installing or removing it. It also has a lock to stop the CPU from moving and a heat sink to get rid of the additional heat.
+RAM Slot: The RAM (Random Access Memory) is installed in a memory slot or socket on the motherboard. A computer may have two or more memory slots.
+Expansion Slot: It is often referred to as an extension port or a bus slot. It is a connection or port on the motherboard that offers a place to put an expansion card for components. It goes by the names bus slot and expansion port as well. It is a port or connection on the motherboard that offers a place to add a hardware expansion card. For instance, you could buy a video expansion card, put it in the expansion slot, and then install a new video card in the computer. AGP, AMR, CNR, PCI, and other popular expansion slots in computers are only a few examples.
+Capacitor: Two conducting plates and a thin insulator are placed together to form a capacitor. These components are contained in a plastic bag.
+Inductor(Coil): A conducting wire is wrapped around an iron core to create an electromagnetic coil known as an inductor. It stores magnetic energy by functioning as an electromagnet or inductor.
+Northbridge: An integrated chip called the northbridge enables communication between the CPU interface, AGP, and memory. Additionally, it enables communication between the southbridge chip and the graphics controller, CPU, and RAM.
+Southbridge: Controls the input and output functions. Due to its location, it is referred to as Southbridge. It enables communication between the northbridge chip.
+USB Port: You can attach hardware like a mouse and keyboard to your computer using the USB port.
+PCI Slot: This term refers to a slot. It enables you to connect Peripheral Component Interconnect Slot (PCI) hardware, like as sound and video cards, network hardware, and modems. These are used to connect the peripherals.
+AGP Slot: This is referred to as an Accelerated Graphics Port(AGP) slot. The slot for connecting graphics cards is provided. It is used for displaying graphics on the screen.
+Heat Sink: The heat created by the computer processor is absorbed and dispersed by the heat sink. Its main function is to cool down the CPU by absorbing the heat while the system is running.
+Power Connector: The purpose of the power connector is to give power to the motherboard.
+CMOS Battery: Complementary Metal Oxide Semiconductor is the abbreviation for the CMOS Battery. It is a storage memory. A battery that provides backup power.
+Integrated Circuits (IC): IC is also a very important component of the motherboard. Integrated circuit is used for data processing and storage.
+
+
+Types of Motherboard
+
+1.Advanced Technology (AT) motherboard
+These motherboards have sockets and connectors with six prongs apiece for the power connections. Users frequently have difficulties when attempting to connect and use these power connections because it might be challenging to recognise them. Such motherboards were very popular in the 1980s, and production of them lasted well into the 2000s.
+2. Standard ATX motherboard
+This motherboard comes in 305*244mm (length*breadth) dimensions, these dimensions can vary with different manufacturer. This motherboard offers more expansion slots, up to four slots for RAM, Two or sometimes more than two PCIe slots for dual graphics cards and more USB and other ports for connectivity, Also its size gives space in between components for airflow to keep heat in control.
+3. Micro ATX motherboard
+This motherboards come in 244*244 mm (length*breadth) dimensions (these dimensions can vary with different manufacturer.). This Motherboard has less ports and slots as compared to Standard ATX board. This type of motherboard is more suitable for those who don’t want to much connectivity and later upgrades like adding more ram and additional GPU or Graphics card and adding PCI cards.
+4. eXtended ATX motherboard
+This motherboard is 344*330 mm dimensions (these dimensions can vary with different manufacturer). This motherboard is designed for both dual CPU and single configuration and has up to 8 RAM slots and has more PCIe and PCI slots for adding PCI cards for different purposes.
+5. Flex ATX motherboard
+They are regarded as the most compact members of the ATX family. They had a small price tag and were made to take up the least amount of space possible. Mini ATX was modified into Flex ATX by Intel between 1999 and 2000.
+6. Low-Profile Extended (LPX) motherboard
+In comparison to the previous motherboard, this has two significant changes. The output and input ports were relocated to the device's back as the first change, in comparison to previous iterations, and the second change was to add a riser card, which makes it simpler to attach components.
+7. BTX motherboard
+A method known as balanced technology extended, or BTX for short, was created to meet the demands of developing technologies, which ask for higher power consumption and, as a result, produce more heat. In order to focus on low-power CPUs, Intel stopped making BTX boards in the middle of the 2000s.
+8. Pico BTX motherboard
+These boards are referred to as Pico due to their small size when compared to a regular motherboard. Despite the fact that the top half of the BTX is shared, two expansion slots are supported. It is made to satisfy the demands of digital applications, and its distinguishing features include the half-height or riser cards.
+9. Mini ITX motherboard
+It is significant to note that the information technology extended (ITX) motherboard does not exist in a standard size. The motherboard has been reduced in size and made smaller than in previous generations in its place. It was created in the 2000s, and it is 17 by 17 centimetres in size.
+10. Mini STX motherboard
+The motherboard presently known as the tiny-STX, which stands for tiny socket technology extended, was originally given the designation "Intel 55". Despite being a 2015 invention, the motherboard is 147 millimetres by 140 millimetres in size.
+Computer Processor (CPU)
+A computer processor or CPU is the hardware component that executes instructions and calculations to run programs and the OS. This article explains the working, types, and importance of a CPU.
+
+
+Components of a computer processor
+The processor of a typical computer consists of several key components that work together to execute instructions and perform calculations.
+ These components include:
+Control unit (CU): The control unit manages and coordinates the CPU’s operations. It fetches instructions from memory, decodes them, and controls the data flow between the CPU and other components.
+Arithmetic logic unit (ALU): The ALU performs arithmetic and logical operations on data. It can perform basic arithmetic operations (addition, subtraction, multiplication, division) and logical operations (AND, OR, NOT) used in decision-making and data manipulation.
+Registers: Registers are small, high-speed memory units located inside the CPU. They temporarily hold data, instructions, and memory addresses that the CPU is processing. Registers include the instruction register (IR), program counter (PC), and general-purpose registers (such as the accumulator and index registers).
+Cache: Cache memory is a small, high-speed memory located directly on the CPU chip. It stores frequently accessed data and instructions to reduce the time needed to access information from the slower main memory (RAM). Cache memory helps improve overall system performance by providing faster access to critical data.
+Control bus: The control bus is a set of electrical pathways that carry control signals between the CPU and other components of the computer system. Control signals include commands for reading and writing data, initiating memory transfers, and controlling instruction flow.
+Data bus: The data bus is a set of electrical pathways that carry data between the CPU, memory, and other devices connected to the computer system. It allows the CPU to transfer data to and from memory, input/output devices, and other peripherals.
+Clock generator: The clock generator produces electrical signals called clock pulses that synchronize the timing of operations within the CPU. The clock speed, measured in hertz (Hz) or gigahertz (GHz), determines how quickly the CPU executes instructions and processes data.
+
+
+Types of CPUs(Processor)
+Various computer processors are available, each designed for different purposes and performance requirements. Here are some common types:
+General-purpose processors: These processors are designed for everyday computing tasks and are found in most personal computers, laptops, and workstations—for instance, the well-known Intel Core series and AMD Ryzen series processors.
+Mobile processors: Mobile processors are specifically designed for smartphones, tablets, and other mobile devices. They prioritize energy efficiency and performance optimization to extend battery life while providing adequate processing power. Qualcomm Snapdragon and Apple A-series processors belong to this category.
+Server processors: Server processors are optimized for handling high-performance computing tasks in server environments. They often feature multiple cores, higher cache sizes, and support for multi-threading and virtualization. Examples include Intel Xeon and AMD EPYC processors.
+Embedded processors: Embedded processors are designed for integration into embedded systems, such as consumer electronics, automotive systems, industrial equipment, and Internet of Things (IoT) devices. They prioritize power efficiency, compact size, and reliability. Examples include ARM Cortex-M and Intel Atom processors.
+Graphics processing units (GPUs): While GPUs are primarily used for rendering graphics in gaming and multimedia applications, they also perform parallel processing tasks and are increasingly used for general-purpose computing tasks, such as machine learning, scientific simulations, and data processing. NVIDIA GeForce and AMD Radeon GPUs are two popular processors of this type.
+Accelerated processing units (APUs): APUs combine CPU and GPU components into a single integrated chip. They offer improved graphics performance and are commonly used in budget-friendly laptops and desktops, and AMD Ryzen also manufactures APUs.
+High-performance CPUs: These are designed for applications that require maximum computing power, such as scientific simulations, data analysis, and artificial intelligence. They feature high core counts, large cache sizes, and support for advanced instruction sets. Examples include Intel’s Core X series and AMD’s Ryzen Threadripper CPUs.
+Workstation CPUs: Workstation CPUs are similar to desktop CPUs but are optimized for professional workloads such as video editing, 3D rendering, and computer-aided design (CAD) applications. They typically offer higher core counts, larger cache sizes, and support for error correction code (ECC) memory—for instance, Intel Xeon W.
+
+
+
+
+Short type questions 
+Q1. What is a computer? What are the characteristics of computers?
+Answer: A computer is an electronic device that processes data; its characteristics are speed, accuracy, storage, and automation.
+Q2. State the different categories of digital computer?
+Answer: Digital computers are categorized as Microcomputer, Minicomputer, Mainframe, and Supercomputer.
+Q3. How many computer generations are there till date? Explain them in brief.
+Answer: There are five generations of computers: Vacuum Tube, Transistor, IC, Microprocessor, and AI generation.
+Q4. Why is computer known as a data processor?
+Answer: A computer is called a data processor because it processes raw data into useful information.
+Q5. Draw a block diagram to illustrate the basic functional units of a computer and explain the functions of each?
+Answer: The basic units are Input Unit, CPU, Memory Unit, and Output Unit.
+Q6. What do you mean by “word length” of a computer?
+Answer: Word length is the number of bits a computer processes at one time.
+Q7. Differentiate between microprocessor and CPU?
+Answer: A microprocessor is a chip, while CPU is the complete processing unit of a computer.
+Q8. What is the function of a control unit?
+Answer: The control unit controls and coordinates all operations of the computer.
+Q9. What do you mean by memory devices? Explain the difference between primary and secondary memory.
+Answer: Memory devices store data; primary memory is temporary and secondary memory is permanent.
+Q10. What is a hard disk and how does it work?
+Answer: A hard disk is a storage device that stores data magnetically on rotating disks.
+Q11. Distinguish between RAM, ROM and Auxiliary memory?
+Answer: RAM is temporary memory, ROM is permanent memory, and auxiliary memory stores large amounts of data.
+Q12. What are the different kinds of input devices?
+Answer: Keyboard, mouse, scanner, microphone, and webcam are input devices.
+Q13. What is ROM? Why is the data stored in ROM not erased even after power is switched off?
+Answer: ROM is permanent memory and retains data because it is non-volatile.
+Q14. What is an output device? What are the major output devices for a computer?
+Answer: Output devices display results; examples are monitor, printer, and speakers.
+Q15. What are peripheral devices? Why are they so called?
+Answer: Peripheral devices are external devices connected to a computer for additional functions.
+Q16. What kind of device is a keyboard? How many types of keyboards are available?
+Answer: Keyboard is an input device and common types are wired, wireless, multimedia, and ergonomic keyboards.
+Q17. What is a computer program and what is running/executing a program?
+Answer: A computer program is a set of instructions; execution means running those instructions.
+Q18. What is firmware and what is its importance to a computer system architect?
+Answer: Firmware is software stored in hardware memory and controls device operations.
+Q19. List the different types of printers available. What technology does the laser printer use?
+Answer: Printers include Inkjet, Laser, Dot Matrix, and Thermal; laser printers use laser beam technology.
+Q20. Define the terms Hardware and Software.
+Answer: Hardware is the physical part of a computer, while software is the set of programs used to operate it.
+Q21. What is FLOW CHART? How does a flowchart help a programmer in program development?
+Answer: A flowchart is a graphical representation of a program that helps in planning and understanding program logic.
+Q22. What is compiler? How are they different from interpreter?
+Answer: A compiler translates the whole program at once, while an interpreter translates line by line.
+Q23. What are assemblers?
+Answer: Assemblers are programs that convert assembly language into machine language.
+Q24. What do you mean by decimal and binary number system?
+Answer: Decimal uses digits 0–9, while binary uses only 0 and 1.
+Q25. What are programming languages? Explain the difference between machine, assembly and high-level language.
+Answer: Programming languages are used to communicate with computers; machine language uses binary, assembly uses mnemonics, and high-level uses human-readable syntax.
+Q26. What are 4th generation languages? Explain how they differ from 3rd generation languages?
+Answer: Fourth-generation languages are user-friendly and require less coding than third-generation languages.
+Q27. What are the limitations of Assembly Language?
+Answer: Assembly language is machine-dependent and difficult for large programs.
+Q28. What is LAN, MAN and WAN?
+Answer: LAN covers small areas, MAN covers cities, and WAN covers large geographical areas.
+Q29. What is a computer network? How is it useful?
+Answer: A computer network connects devices for communication and resource sharing.
+Q30. What are the main components of a computer?
+Answer: Input devices, output devices, CPU, memory, and storage.
+Q31. What is hardware?
+Answer: Hardware refers to the physical parts of a computer.
+Q32. What is software?
+Answer: Software is a set of instructions that tells the computer what to do.
+Q33. What is an operating system?
+Answer: It is software that manages computer hardware and software resources.
+Q34. Name an example of an operating system.
+Answer: Windows, Linux, and macOS.
+Q35. What is a CPU?
+Answer: CPU (Central Processing Unit) is the brain of the computer.
+Q36. What is RAM?
+Answer: RAM (Random Access Memory) is temporary memory used by the computer.
+Q37. What is ROM?
+Answer: ROM (Read Only Memory) is permanent memory storing essential instructions.
+Q38. What is a file?
+Answer: A file is a collection of data stored on a computer.
+Q39. What is a folder?
+Answer: A folder is used to organize files.
+Q40. What is a byte?
+Answer: A byte is a unit of digital information, usually 8 bits.
+Q41. What is software application?
+Answer: Programs designed to perform specific tasks for users.
+Q42. What is a computer virus?
+Answer: A computer virus is malicious software that can harm a computer.
+Q43. What is an input device?
+Answer: Hardware used to enter data into a computer.
+Q44. What is an output device?
+Answer: Hardware that displays or outputs data.
+Q45. What is a keyboard?
+Answer: A keyboard is an input device used to type data.
+Q46. What is a mouse?
+Answer: A mouse is an input device used to point and click.
+Q47. What is a monitor?
+Answer: A monitor is an output device that displays images and text.
+Q48. What is a printer?
+Answer: A printer is an output device that produces a paper copy.
+Q49. What is software installation?
+Answer: Software installation is the process of copying software to a computer.
+Q50. What is a web browser?
+Answer: A web browser is software used to access the internet.
+COMPUTER BASICS – OBJECTIVE TYPE QUESTIONS (1–50)
+1. What is a computer?
+A) Machine B) Electronic device
+C) Calculator D) TV
+2. Which is called the brain of the computer?
+A) RAM B) Hard Disk
+C) CPU D) Keyboard
+3. What does CPU stand for?
+A) Central Processing Unit B) Control Program Unit
+C) Computer Processing Unit D) Central Program Utility
+4. Which of the following is an input device?
+A) Monitor B) Printer
+C) Keyboard D) Speaker
+5. Which of the following is an output device?
+A) Mouse B) Keyboard
+C) Scanner D) Monitor
+6. Which memory is temporary?
+A) ROM B) RAM
+C) Hard Disk D) DVD
+7. What does RAM stand for?
+A) Read Access Memory B) Random Access Memory
+C) Run Access Memory D) Real Access Memory
+8. What does ROM stand for?
+A) Read Only Memory B) Run Only Memory
+C) Random Output Memory D) Real Object Memory
+9. Which storage device stores large amounts of data?
+A) CPU B) Hard Disk
+C) Keyboard D) Mouse
+10. Which is system software?
+A) MS Paint B) MS Word
+C) Operating System D) Calculator
+11. Which is an example of an operating system?
+A) Windows B) Excel
+C) Chrome D) Paint
+12. Which software is used for calculations?
+A) MS Word B) MS Excel
+C) Paint D) Notepad
+13. Which device is used to print documents?
+A) Scanner B) Printer
+C) Monitor D) Mouse
+14. Which device is used to scan documents?
+A) Printer B) Scanner
+C) Keyboard D) Speaker
+15. A byte contains how many bits?
+A) 2 B) 4
+C) 8 D) 16
+16. Which key deletes characters to the left?
+A) Enter B) Backspace
+C) Shift D) Ctrl
+17. Which key starts a new line?
+A) Enter B) Esc
+C) Shift D) Tab
+18. Which of these is application software?
+A) Windows B) Linux
+C) MS Word D) BIOS
+19. Which device controls the cursor?
+A) Keyboard B) Mouse
+C) Printer D) CPU
+20. Which part stores data permanently?
+A) RAM B) Cache
+C) Hard Disk D) Register
+21. What is a folder used for?
+A) Typing B) Printing
+C) Organizing files D) Scanning
+22. Which symbol is used in an email address?
+A) # B) @
+C) & D) %
+23. Which is an example of a web browser?
+A) Chrome B) Excel
+C) Windows D) Paint
+24. Full form of URL?
+A) Uniform Resource Locator B) Universal Record Link
+C) Uniform Record Link D) Universal Resource List
+25. Which is not an input device?
+A) Mouse B) Keyboard
+C) Monitor D) Scanner
+26. What is malware?
+A) Useful software B) Harmful software
+C) Printer software D) Hardware
+27. Which memory cannot be changed easily?
+A) RAM B) ROM
+C) Cache D) Register
+28. Which is a pointing device?
+A) Mouse B) Printer
+C) Monitor D) Speaker
+29. Which software creates presentations?
+A) MS Paint B) MS PowerPoint
+C) Notepad D) Calculator
+30. Which software creates spreadsheets?
+A) Word B) Excel
+C) Paint D) Browser
+31. Which device displays output?
+A) CPU B) Monitor
+C) Keyboard D) Scanner
+32. Which company developed Windows?
+A) Apple B) Google
+C) Microsoft D) Intel
+33. What is the full form of WWW?
+A) World Wide Web B) Web World Wide
+C) World Web Window D) Wide World Web
+34. Which is not storage media?
+A) CD B) Pen Drive
+C) Hard Disk D) Mouse
+35. Which device gives sound output?
+A) Scanner B) Speaker
+C) Mouse D) Keyboard
+36. Which memory is called primary memory?
+A) RAM B) Hard Disk
+C) CD D) Pen Drive
+37. Which key is used to cancel an operation?
+A) Esc B) Shift
+C) Alt D) Tab
+38. Which key is used for capital letters?
+A) Ctrl B) Shift
+C) Esc D) Delete
+39. Which is a secondary storage device?
+A) RAM B) ROM
+C) Hard Disk D) Register
+40. Which software is used to draw pictures?
+A) Paint B) Word
+C) Browser D) Excel
+41. Which of these is hardware?
+A) Windows B) MS Word
+C) CPU D) Browser
+42. Which one is a communication device?
+A) Modem B) Mouse
+C) Monitor D) Keyboard
+43. Which one stores files online?
+A) Cloud Storage B) Keyboard
+C) Printer D) CPU
+44. What is a virus?
+A) Hardware B) Program
+C) Harmful software D) Folder
+45. Which shortcut key copies text?
+A) Ctrl+X B) Ctrl+C
+C) Ctrl+V D) Ctrl+Z
+46. Which shortcut key pastes text?
+A) Ctrl+C B) Ctrl+Z
+C) Ctrl+V D) Ctrl+A
+47. Which shortcut key cuts text?
+A) Ctrl+X B) Ctrl+P
+C) Ctrl+F D) Ctrl+S
+48. Which key saves a file?
+A) Ctrl+A B) Ctrl+S
+C) Ctrl+P D) Ctrl+N
+49. Which software is used for typing?
+A) Paint B) MS Word
+C) Chrome D) Calculator
+50. Which is the smallest unit of data?
+A) Byte B) Bit
+C) KB D) MB
+Answers 
+1-B
+2-C
+3-A
+4-C
+5-D
+6-B
+7-B
+8-A
+9-B
+10-C
+11-A
+12-B
+13-B
+14-B
+15-C
+16-B
+17-A
+18-C
+19-B
+20-C
+21-C
+22-B
+23-A
+24-A
+25-C
+26-B
+27-B
+28-A
+29-B
+30-B
+31-B
+32-C
+33-A
+34-D
+35-B
+36-A
+37-A
+38-B
+39-C
+40-A
+41-C
+42-A
+43-A
+44-C
+45-B
+46-C
+47-A
+48-B
+49-B
+50-B
+
+
+
+
+
+
+
+
+
+
+
+
+
